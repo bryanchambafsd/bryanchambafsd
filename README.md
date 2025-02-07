@@ -38,15 +38,9 @@ Full Stack Developer con más de **9 años de experiencia** en integración de s
 
 ---
 
-### 🎨 Proyectos Personales
-- **[Just Do It Coder](https://github.com/JustDoItCoder)**: Plataforma de contenido y tutoriales.
-- **[Sistema de Gestión Financiera](https://github.com/your-repo)**: Solución completa para cooperativas.
-
----
-
 ### 🌐 Contáctame
 - **Email:** [bryan96ch@hotmail.com](mailto:bryan96ch@hotmail.com)  
-- **LinkedIn:** [linkedin.com/in/bryan-alejandro-chamba-freire](https://linkedin.com/in/bryan-alejandro-chamba-freire)  
+- **LinkedIn:** [linkedin.com/in/bryan-alejandro-chamba-freire-fsd](https://linkedin.com/in/bryan-alejandro-chamba-freire-fsd)  
 
 ---
 
