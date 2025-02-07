@@ -2,9 +2,9 @@
 
 ### 🚀 Full Stack Developer | Especialista en Integración de Sistemas y Automatización
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Alejandro%20Chamba%20Freire-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bryan-alejandro-chamba-freire-fsd)  
-[![Email](https://img.shields.io/badge/Email-bryan96ch%40hotmail.com-green?style=for-the-badge&logo=microsoft-outlook)](mailto:bryan96ch@hotmail.com)  
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square)](https://github.com/bryanchambafsd)
+[![ LinkedIn ](https://img.shields.io/badge/LinkedIn-Bryan%20Alejandro%20Chamba%20Freire-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bryan-alejandro-chamba-freire-fsd)  
+[![ Email ](https://img.shields.io/badge/Email-bryan96ch%40hotmail.com-green?style=for-the-badge&logo=microsoft-outlook)](mailto:bryan96ch@hotmail.com)  
+[![ GitHub Profile Views ](https://komarev.com/ghpvc/?username=bryanchambafsd&color=blue&style=flat-square)](https://github.com/bryanchambafsd)
 
 ---
 
